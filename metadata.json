@@ -1,0 +1,6 @@
+{
+  "name": "Focus Flow",
+  "description": "Professional task management with cloud sync, calendar views, and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Task Management", "Cloud Sync", "Calendar Tracking"]
+}
